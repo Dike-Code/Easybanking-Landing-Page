@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [Solution](https://github.com/Dike-Code/Easybanking-Landing-Page)
+-  Live Site URL: [live Site](https://dike-code.github.io/Easybanking-Landing-Page/)
 
 ## My process
 
@@ -101,14 +101,13 @@ All, Practice... Practice and Practice.
 
 ### Useful resources
 
--  [Traversy Media](https://www.example.com) - This helped me with the full asimillation of CSS FLEX BOX and Grid. I really liked this pattern Brad uses in explaining all the concepts one needs to master this craft.
+-  [Traversy Media](https://www.youtube.com) - This helped me with the full asimillation of CSS FLEX BOX and Grid. I really liked this pattern Brad uses in explaining all the concepts one needs to master this craft.
 
--  [Youtube](https://www.example.com) - This is an amazing website/platform which helped me finally understand a lot including the snippets on buiding a dropdown list. I'd recommend it to anyone still learning this concept.
+-  [Youtube](https://www.youtube.com) - This is an amazing website/platform which helped me finally understand a lot including the snippets on buiding a dropdown list. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--  Twitter - [@yourusername](https://www.twitter.com/yourusername)
+-  Frontend Mentor - [@Dike-Code](https://www.frontendmentor.io/profile/Dike-Code)
 
 ## Acknowledgments
 
